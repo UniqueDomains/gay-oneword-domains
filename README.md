@@ -1,0 +1,2 @@
+# gay-oneword-domains
+List of gay one word domain names with availability, expiration date, attractiveness, demand score.
