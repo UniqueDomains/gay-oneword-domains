@@ -21,8 +21,8 @@ If you want to search & filters the complete database of [.GAY one word domains]
 
 | Domain         | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | -------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.gay        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.gay      | available | 88       | 32%    | 5      |           |         |         |
+| aaa.gay        | premium   | 70       | 38%    | 3      |           |         |         |
+| aaron.gay      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.gay  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.gay      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.gay  | available | 58       | 7%     | 9      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.GAY one word domains]
 | abatic.gay     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.gay    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.gay   | available | 50       | 1%     | 8      |           |         |         |
-| abc.gay        | available | 102      | 41%    | 3      |           |         |         |
+| abc.gay        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.gay  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.gay  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.gay | available | 56       | 1%     | 10     |           |         |         |
