@@ -73,17 +73,17 @@ print(df.head())
 | clear.gay      | available | $37.99    | $50.99        | 90             | 49     | 5      | name.com         |
 | support.gay    | resell    | —         | —             | 112            | 47     | 7      | GoDaddy.com, LLC |
 | easy.gay       | premium   | $300      | $300          | 128            | 62     | 4      | namecheap        |
-| forge.gay      | available | $37.99    | $50.99        | 62             | 45     | 5      | name.com         |
+| forge.gay      | available | $37.99    | $50.99        | 62             | 44     | 5      | name.com         |
 | together.gay   | resell    | —         | —             | 80             | 46     | 8      | NameCheap, Inc.  |
 | power.gay      | premium   | $780      | $780          | 98             | 62     | 5      | namecheap        |
 | quick.gay      | available | $37.99    | $50.99        | 72             | 41     | 5      | name.com         |
 | david.gay      | resell    | —         | —             | 74             | 46     | 5      | GoDaddy.com, LLC |
-| free.gay       | premium   | $2,400    | $2,400        | 88             | 59     | 4      | namecheap        |
-| review.gay     | available | $45.98    | —             | 94             | 39     | 6      | namecheap        |
-| positive.gay   | resell    | —         | —             | 84             | 37     | 8      | Dynadot Inc      |
 | cloud.gay      | premium   | $2,400    | $2,400        | 70             | 59     | 5      | namecheap        |
-| learning.gay   | available | $45.98    | —             | 76             | 39     | 8      | namecheap        |
+| gather.gay     | available | $37.99    | $50.99        | 96             | 39     | 6      | name.com         |
 | technology.gay | resell    | —         | —             | 88             | 35     | 10     | GoDaddy.com, LLC |
+| ace.gay        | premium   | $2,400    | $2,400        | 88             | 57     | 3      | namecheap        |
+| review.gay     | available | $45.98    | —             | 94             | 39     | 6      | namecheap        |
+| positive.gay   | resell    | —         | —             | 84             | 35     | 8      | Dynadot Inc      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
