@@ -1,22 +1,22 @@
-# Available .GAY One-Word Domains (9,232)
+# Available .GAY One-Word Domains (11,589)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C233%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C232%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C589%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .gay one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .gay one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,589 domains** on the canonical page below.
 
-**Public extract:** 9,233 rows · **Live catalog:** 9,232 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,589 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/gay`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .GAY one-word domain c
 
 ### Files
 
-- `gay.csv` — public CSV extract (9,233 rows)
-- `gay.json` — public JSON extract (9,233 rows)
+- `gay.csv` — public CSV extract (1,000 rows)
+- `gay.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| seventeen.gay  | available | $37.99    | $50.99        | 84             | 62     | 9      | name.com         |
-| split.gay      | resell    | $37.99    | $50.99        | 46             | 29     | 5      | GoDaddy.com, LLC |
-| converse.gay   | premium   | $2,400    | $2,400        | 64             | 73     | 8      | namecheap        |
-| athletics.gay  | available | $45.98    | —             | 69             | 52     | 9      | namecheap        |
-| identity.gay   | resell    | —         | —             | 80             | 65     | 8      | Porkbun          |
-| nationwide.gay | premium   | $2,400    | $2,400        | 76             | 66     | 10     | namecheap        |
-| clear.gay      | available | $37.99    | $50.99        | 90             | 49     | 5      | name.com         |
-| support.gay    | resell    | —         | —             | 112            | 47     | 7      | GoDaddy.com, LLC |
-| easy.gay       | premium   | $300      | $300          | 128            | 62     | 4      | namecheap        |
-| forge.gay      | available | $37.99    | $50.99        | 62             | 44     | 5      | name.com         |
-| together.gay   | resell    | —         | —             | 80             | 46     | 8      | NameCheap, Inc.  |
-| power.gay      | premium   | $780      | $780          | 98             | 62     | 5      | namecheap        |
-| quick.gay      | available | $37.99    | $50.99        | 72             | 41     | 5      | name.com         |
-| david.gay      | resell    | —         | —             | 74             | 46     | 5      | GoDaddy.com, LLC |
-| cloud.gay      | premium   | $2,400    | $2,400        | 70             | 59     | 5      | namecheap        |
-| gather.gay     | available | $37.99    | $50.99        | 96             | 39     | 6      | name.com         |
-| technology.gay | resell    | —         | —             | 88             | 35     | 10     | GoDaddy.com, LLC |
-| ace.gay        | premium   | $2,400    | $2,400        | 88             | 57     | 3      | namecheap        |
-| review.gay     | available | $45.98    | —             | 94             | 39     | 6      | namecheap        |
-| positive.gay   | resell    | —         | —             | 84             | 35     | 8      | Dynadot Inc      |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| makers.gay        | available | $38.99    | $38.99        | 62             | 67     | 6      | namesilo        |
+| chatbot.gay       | resell    | —         | —             | 82             | 36     | 7      | Spaceship, Inc. |
+| donuts.gay        | premium   | $2,500    | —             | 54             | 62     | 6      | name.com        |
+| keepthechange.gay | available | $50.98    | —             | 46             | 59     | 15     | namecheap       |
+| tokens.gay        | resell    | —         | —             | 51             | 36     | 6      | Spaceship, Inc. |
+| travelers.gay     | premium   | $2,500    | —             | 58             | 61     | 9      | name.com        |
+| WiFi.gay          | available | $50.98    | —             | 83             | 37     | 5      | namecheap       |
+| planes.gay        | resell    | —         | —             | 67             | 13     | 6      | Dynadot Inc     |
+| cars.gay          | premium   | $812.50   | —             | 66             | 47     | 4      | name.com        |
+| neuroscience.gay  | available | $50.98    | —             | 80             | 37     | 12     | namecheap       |
+| Tools.gay         | premium   | $140      | $140          | 56             | 40     | 5      | namecheap       |
+| tickets.gay       | available | $38.99    | $38.99        | 64             | 34     | 7      | namesilo        |
+| stories.gay       | premium   | $2,500    | —             | 58             | 36     | 7      | name.com        |
+| solutions.gay     | available | $50.98    | —             | 56             | 31     | 9      | namecheap       |
+| homes.gay         | premium   | $2,500    | —             | 86             | 34     | 5      | name.com        |
+| bees.gay          | available | $50.98    | —             | 54             | 27     | 4      | namecheap       |
+| William.gay       | premium   | $910      | $910          | 74             | 31     | 7      | namecheap       |
+| trades.gay        | available | $38.99    | $38.99        | 71             | 26     | 6      | namesilo        |
+| inspiration.gay   | premium   | $125      | —             | 88             | 30     | 11     | name.com        |
+| boats.gay         | available | $50.98    | —             | 52             | 24     | 5      | namecheap       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,233-row public sample | 9,232 live domains                               |
+| 1,000-row public sample | 11,589 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GAY One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GAY One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
