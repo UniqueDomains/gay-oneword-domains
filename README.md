@@ -65,7 +65,7 @@ print(df.head())
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
 | makers.gay        | available | $38.99    | $38.99        | 62             | 67     | 6      | namesilo        |
-| chatbot.gay       | resell    | —         | —             | 82             | 36     | 7      | Spaceship, Inc. |
+| chatbot.gay       | resell    | —         | —             | 82             | 40     | 7      | Spaceship, Inc. |
 | donuts.gay        | premium   | $2,500    | —             | 54             | 62     | 6      | name.com        |
 | keepthechange.gay | available | $50.98    | —             | 46             | 59     | 15     | namecheap       |
 | planes.gay        | resell    | —         | —             | 67             | 13     | 6      | Dynadot Inc     |
