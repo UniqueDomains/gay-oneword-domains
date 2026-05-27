@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .gay one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,152 domains · **Median ask:** $133.92 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/gay`  
 **Best for:** founders, investors, studios
 
@@ -79,11 +79,11 @@ print(df.head())
 | slots.gay         | available | $38.99    | $38.99        | 49             | 31     | 5      | namesilo        |
 | William.gay       | premium   | $910      | $910          | 74             | 31     | 7      | namecheap       |
 | trades.gay        | available | $38.99    | $38.99        | 71             | 26     | 6      | namesilo        |
-| inspiration.gay   | premium   | $125      | —             | 88             | 30     | 11     | name.com        |
-| boats.gay         | available | $50.98    | —             | 52             | 24     | 5      | namecheap       |
 | SanDiego.gay      | premium   | $116      | $116          | 74             | 29     | 9      | namesilo        |
-| motorsport.gay    | available | $50.98    | —             | 74             | 23     | 10     | namecheap       |
+| boats.gay         | available | $50.98    | —             | 52             | 24     | 5      | namecheap       |
 | brands.gay        | premium   | $2,500    | —             | 62             | 28     | 6      | name.com        |
+| motorsport.gay    | available | $50.98    | —             | 74             | 23     | 10     | namecheap       |
+| photos.gay        | premium   | $2,500    | —             | 54             | 28     | 6      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GAY One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GAY One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
