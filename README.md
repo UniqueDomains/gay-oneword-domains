@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .gay one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 22,180 domains · **Median ask:** $101.42 · **High-demand under $2,500:** 13
 
-**Last updated:** 2026-09-11
+**Last updated:** 2026-09-12
 **Canonical page:** `https://unique.domains/domains/tld/gay`
 **Best for:** founders, investors, studios
 
@@ -64,8 +64,6 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| action.gay     | premium   | $302.50   | $302.50       | high           | medium | 6      | namesilo         |
-| tough.gay      | premium   | $116      | $116          | high           | low    | 5      | namesilo         |
 | add.gay        | available | $38.99    | $38.99        | high           | low    | 3      | namesilo         |
 | wear.gay       | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.  |
 | bce.gay        | premium   | $218.75   | —             | medium         | low    | 3      | name.com         |
@@ -84,6 +82,8 @@ print(df.head())
 | boer.gay       | available | $2.98     | $50.98        | low            | low    | 4      | namecheap        |
 | jan.gay        | premium   | $116      | $116          | high           | low    | 3      | namesilo         |
 | clxx.gay       | available | $2.98     | $50.98        | low            | low    | 4      | namecheap        |
+| kid.gay        | premium   | $116      | $116          | high           | low    | 3      | namesilo         |
+| cold.gay       | available | $38.99    | $38.99        | high           | low    | 4      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GAY One-Word Domains*. Version 2026-09-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GAY One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
