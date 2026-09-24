@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .gay one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,601 domains · **Median ask:** $88.46 · **High-demand under $2,500:** 11
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/gay`
 **Best for:** founders, investors, studios
 
@@ -83,7 +83,7 @@ print(df.head())
 | jan.gay        | premium   | $116      | $116          | high           | low    | 3      | namesilo         |
 | clxx.gay       | available | $2.98     | $50.98        | low            | low    | 4      | namecheap        |
 | kid.gay        | premium   | $116      | $116          | high           | low    | 3      | namesilo         |
-| cold.gay       | available | $38.99    | $38.99        | high           | low    | 4      | namesilo         |
+| cold.gay       | available | $2.98     | $50.98        | medium         | low    | 4      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GAY One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GAY One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
