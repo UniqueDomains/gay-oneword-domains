@@ -1,10 +1,10 @@
-# Available .GAY One-Word Domains (32,508)
+# Available .GAY One-Word Domains (34,762)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C508%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-34%2C762%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .gay one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **32,508 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **34,762 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 32,508 domains · **Median ask:** $137.92 · **High-demand under $2,500:** 63
+**Public extract:** 1,000 rows · **Live catalog:** 34,762 domains · **Median ask:** $134.50 · **High-demand under $2,500:** 69
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/gay`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| blm.gay          | available | $2.98     | $50.98        | high           | low    | 3      | namecheap |
-| golfer.gay       | resell    | —         | —             | high           | low    | 6      | —         |
-| aaa.gay          | premium   | $2,660    | $2,660        | high           | medium | 3      | namesilo  |
-| chu.gay          | available | $38.99    | $38.99        | medium         | low    | 3      | namesilo  |
-| identity.gay     | resell    | —         | —             | high           | medium | 8      | Porkbun   |
-| aau.gay          | premium   | $55       | $55           | high           | low    | 3      | dynadot   |
-| cns.gay          | available | $38.99    | $38.99        | medium         | low    | 3      | namesilo  |
-| mustache.gay     | resell    | —         | —             | high           | low    | 8      | —         |
-| aix.gay          | premium   | $224      | $224          | high           | medium | 3      | namesilo  |
-| cui.gay          | available | $38.99    | $38.99        | high           | low    | 3      | namesilo  |
-| tottenham.gay    | resell    | —         | —             | medium         | low    | 9      | —         |
-| ams.gay          | premium   | $103.70   | $103.70       | high           | low    | 3      | spaceship |
-| nam.gay          | available | $1.75     | $31.28        | high           | low    | 3      | spaceship |
-| republicans.gay  | resell    | —         | —             | high           | low    | 11     | —         |
-| asl.gay          | premium   | $224      | $224          | high           | low    | 3      | namesilo  |
-| ooo.gay          | available | $2.99     | $38.99        | high           | medium | 3      | namesilo  |
-| christianity.gay | resell    | —         | —             | high           | low    | 12     | —         |
-| beg.gay          | premium   | $116      | $116          | high           | low    | 3      | namesilo  |
-| abed.gay         | available | $2.98     | $50.98        | medium         | low    | 4      | namecheap |
-| did.gay          | premium   | $812.50   | —             | high           | low    | 3      | name.com  |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| blm.gay         | available | $2.98     | $50.98        | high           | low    | 3      | namecheap |
+| golfer.gay      | resell    | —         | —             | high           | low    | 6      | —         |
+| aaa.gay         | premium   | $2,660    | $2,660        | high           | medium | 3      | namesilo  |
+| chu.gay         | available | $38.99    | $38.99        | medium         | low    | 3      | namesilo  |
+| identity.gay    | resell    | —         | —             | high           | medium | 8      | Porkbun   |
+| aau.gay         | premium   | $55       | $55           | high           | low    | 3      | dynadot   |
+| cns.gay         | available | $38.99    | $38.99        | medium         | low    | 3      | namesilo  |
+| mustache.gay    | resell    | —         | —             | high           | low    | 8      | —         |
+| acr.gay         | premium   | $181.33   | $181.33       | high           | low    | 3      | spaceship |
+| cui.gay         | available | $38.99    | $38.99        | high           | low    | 3      | namesilo  |
+| tottenham.gay   | resell    | —         | —             | medium         | low    | 9      | —         |
+| aix.gay         | premium   | $224      | $224          | high           | medium | 3      | namesilo  |
+| frc.gay         | available | $2        | $32.32        | high           | low    | 3      | dynadot   |
+| republicans.gay | resell    | —         | —             | high           | low    | 11     | —         |
+| anz.gay         | premium   | $181.33   | $181.33       | high           | medium | 3      | spaceship |
+| nam.gay         | available | $1.75     | $31.28        | high           | low    | 3      | spaceship |
+| asl.gay         | premium   | $224      | $224          | high           | low    | 3      | namesilo  |
+| ooo.gay         | available | $2.99     | $38.99        | high           | medium | 3      | namesilo  |
+| bca.gay         | premium   | $224      | $224          | high           | low    | 3      | namesilo  |
+| psu.gay         | available | $1.75     | $31.28        | high           | low    | 3      | spaceship |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 32,508 live domains                        |
+| 1,000-row public sample | 34,762 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 63 high-demand names under $2,500          |
+| Basic exported fields   | 69 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GAY One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GAY One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
